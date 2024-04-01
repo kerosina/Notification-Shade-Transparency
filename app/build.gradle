@@ -8,7 +8,7 @@ android {
     defaultConfig {
         applicationId "com.asyjaiz.A12blur"
         minSdk 31
-        targetSdk 31
+        targetSdk 33
         versionCode 5
         versionName "1.4N"
 
